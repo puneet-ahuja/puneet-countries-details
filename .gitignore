@@ -2,3 +2,4 @@ dist
 node_modules/
 puneet-countries-details-*.tgz
 package
+.DS_Store
